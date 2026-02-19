@@ -6,6 +6,7 @@
 	border-radius: 10px;
 	border: solid 1px #AAAAAA;
 	overflow: auto;
+	margin: 2em 0em;
 	/*height: 20em;*/
 }
 
@@ -69,4 +70,5 @@ tr:hover td:last-child{
 	/*-webkit-box-shadow:inset 0px 0px 0px 1px #f00;
 	-moz-box-shadow:inset 0px 0px 0px 1px #f00;*/
 	box-shadow:inset -2px 0px 1px 2px var(--hover-border-color);
+
 }
